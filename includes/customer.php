@@ -18,7 +18,7 @@
 								</div>
 								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Denis Richale</strong></h5>
 								<h6 class="text-dark m-0">Sales Manger</h6>
-								<p class="m-0 pt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
+								<p class="m-0 pt-3">A beautiful resort with very well mannered and helpful staff. Nicely maintained property. Can be a perfect get away from your routine hectic schedule. Play area available to keep your kids engaged. Only problem is only cash accepted at the resort due to network issues and even limited mobile network. They also arrange forest safari which is now open from 15 th of Oct.</p>
 							</div>
 							<div class="carousel-item text-center">
 								<div class="img-box p-1 border rounded-circle m-auto">
@@ -26,7 +26,7 @@
 								</div>
 								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Pramod Shrama</strong></h5>
 								<h6 class="text-dark m-0">Director</h6>
-								<p class="m-0 pt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
+								<p class="m-0 pt-3">Guys if u want hangout with u r friends and family then this place is awesome staff also good. for trek this place is best and also for refresh your employees . we can not express the natural beauty in words.</p>
 							</div>
 							<div class="carousel-item text-center">
 								<div class="img-box p-1 border rounded-circle m-auto">
@@ -34,7 +34,7 @@
 								</div>
 								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Rahi Sigh</strong></h5>
 								<h6 class="text-dark m-0">Director</h6>
-								<p class="m-0 pt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
+								<p class="m-0 pt-3">Great Location with awesome views of the valley. Rooms are spacious and clean. We came here in the month of June. Weather was awesome. The biggest drawback is the limited variety of food available.Asked for a half fried egg for breakfast but they could provide only omlettes. Was a bit disappointed with their thalis. Quality could definitely have been better. The hotel staff is too immature.</p>
 							</div>
 						</div>
 						<a class="carousel-control-prev" href="#reviews" role="button" data-slide="prev">

@@ -1,10 +1,9 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 	<header class="top-navbar" style="background-color: transparent;">
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					
+		<nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image:url(images/slider-03.jpg)">
+			
 			<div class="container">
-				<a class="navbar-brand" href="index.php">
-					<img src="images/logo.jpg" alt="" width="90" height="90" />
-				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-rs-food" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 				  <span class="navbar-toggler-icon"></span>
 				</button>
@@ -34,5 +33,6 @@
 					</ul>
 				</div>
 			</div>
+			
 		</nav>
 	</header>

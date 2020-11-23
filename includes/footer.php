@@ -1,3 +1,4 @@
+
 <footer class="footer-area bg-f">
 		<div class="container">
 			<div class="row">
@@ -14,8 +15,8 @@
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<h3>Contact information</h3>
-					<p class="lead">Ipsum Street, Lorem Tower, MO, Columbia, 508000</p>
-					<p class="lead"><a href="#">+01 2000 800 9999</a></p>
+					<p class="lead">Sangali</p>
+					<p class="lead"><a href="#">+91-8625973366</a></p>
 					<p><a href="#"> info@admin.com</a></p>
 				</div>
 				<div class="col-lg-3 col-md-6">

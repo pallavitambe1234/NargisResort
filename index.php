@@ -6,26 +6,15 @@
 	<?php include'includes/header.php';?>
 	<div id="slides" class="cover-slides">
 		<ul class="slides-container">
-			<li class="text-center">
-				<img src="images/slider-01.jpg" alt="">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Welcome To <br> Nargis Resort</strong></h1>
-							<p class="m-b-40">See how your users experience your website in realtime or view  <br> 
-							trends to see any changes in performance over time.</p>
-							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="reservation.php">Reservation</a></p>
-					</div>
-				</div>
-			</li>
+			
 			<li class="text-center">
 				<img src="images/slider-02.jpg" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Welcome To <br> Nargis Resort</strong></h1>
-							<p class="m-b-40">See how your users experience your website in realtime or view  <br> 
-							trends to see any changes in performance over time.</p>
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="reservation.php">Reservation</a></p>
 						</div>
 					</div>
@@ -36,11 +25,23 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Welcome To <br> Nargis Resort</strong></h1>
-							<p class="m-b-40">See how your users experience your website in realtime or view  <br> 
-							trends to see any changes in performance over time.</p>
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white"href="reservation.php">Reservation</a></p>
 						</div>
+					</div>
+				</div>
+			</li>
+			<li class="text-center">
+				<img src="images/slider-01.jpg" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="reservation.php">Reservation</a></p>
 					</div>
 				</div>
 			</li>
@@ -57,14 +58,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12">
-					<img src="images/about-img.jpg" alt="" class="img-fluid">
+					<img src="images/slider-04.jpg" alt="" class="img-fluid">
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
-						<h1>Welcome To <span>Nargis Resort</span></h1>
+						<h1>Welcome To <span>Whispering Teaks</span></h1>
 						<h4>Little Story</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor suscipit feugiat. Ut at pellentesque ante, sed convallis arcu. Nullam facilisis, eros in eleifend luctus, odio ante sodales augue, eget lacinia lectus erat et sem. </p>
-						<p>Sed semper orci sit amet porta placerat. Etiam quis finibus eros. Sed aliquam metus lorem, a pellentesque tellus pretium a. Nulla placerat elit in justo vestibulum, et maximus sem pulvinar.</p>
+						<p>Available Facilities.Tree-house, Farm-House, Swimming, Rain-Dance, Camp-fire, Farm-Trekking, Natural Peacock Park, Indoor-Games. </p>
+						<p>Wedding, Pre/Post-Wedding, Birthday, Kitty Party and Photoshoot.</p>
 						<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Reservation</a>
 					</div>
 				</div>
@@ -79,7 +80,7 @@
 			<div class="row">
 				<div class="col-md-8 ml-auto mr-auto text-left">
 					<p class="lead ">
-						" If you're not the one cooking, stay out of the way and compliment the chef. "
+						" Stand for Somthing Good!!!!!!!!!!. "
 					</p>
 					<span class="lead">Michael Strahan</span>
 				</div>
@@ -271,39 +272,8 @@
 	<!-- End Customer Reviews -->
 	
 	<!-- Start Contact info -->
-	<div class="contact-imfo-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<i class="fa fa-volume-control-phone"></i>
-					<div class="overflow-hidden">
-						<h4>Phone</h4>
-						<p class="lead">
-							+01 123-456-4590
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-envelope"></i>
-					<div class="overflow-hidden">
-						<h4>Email</h4>
-						<p class="lead">
-							yourmail@gmail.com
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-map-marker"></i>
-					<div class="overflow-hidden">
-						<h4>Location</h4>
-						<p class="lead">
-							800, Lorem Street, US
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
+	<?php include'includes/info.php';?>
 	<!-- End Contact info -->
 	
 	<?php include'includes/footer.php';?>

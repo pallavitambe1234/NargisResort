@@ -21,7 +21,7 @@
 	<!-- End All Pages -->
 	
 	<!-- Start Contact -->
-	<div class="map-full"></div>
+	
 	<div class="contact-box">
 		<div class="container">
 			<div class="row">
@@ -81,39 +81,8 @@
 	<!-- End Contact -->
 	
 	<!-- Start Contact info -->
-	<div class="contact-imfo-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<i class="fa fa-volume-control-phone"></i>
-					<div class="overflow-hidden">
-						<h4>Phone</h4>
-						<p class="lead">
-							+01 123-456-4590
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-envelope"></i>
-					<div class="overflow-hidden">
-						<h4>Email</h4>
-						<p class="lead">
-							yourmail@gmail.com
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-map-marker"></i>
-					<div class="overflow-hidden">
-						<h4>Location</h4>
-						<p class="lead">
-							800, Lorem Street, US
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
+	<?php include'includes/info.php';?>
 	<!-- End Contact info -->
 	
 	<?php include'includes/footer.php';?>
@@ -124,18 +93,6 @@
 
 	<!-- ALL JS FILES -->
 		<?php include'includes/script.php';?>
-	<script>
-		$('.map-full').mapify({
-			points: [
-				{
-					lat: 40.7143528,
-					lng: -74.0059731,
-					marker: true,
-					title: 'Marker title',
-					infoWindow: 'Yamifood Restaurant'
-				}
-			]
-		});	
-	</script>
+	
 </body>
 </html>
