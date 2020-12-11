@@ -26,40 +26,55 @@
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
 						<h2>Gallery</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p> -->
 					</div>
 				</div>
 			</div>
 			<div class="tz-gallery">
 				<div class="row">
 					<div class="col-sm-12 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-01.jpg">
-							<img class="img-fluid" src="images/gallery-img-01.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/room3.jpg">
+							<img class="img-fluid" src="images/room3.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-02.jpg">
-							<img class="img-fluid" src="images/gallery-img-02.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/woodhaous.jpg">
+							<img class="img-fluid" src="images/woodhaous.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-03.jpg">
-							<img class="img-fluid" src="images/gallery-img-03.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/wood2.jpg">
+							<img class="img-fluid" src="images/wood2.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-04.jpg">
-							<img class="img-fluid" src="images/gallery-img-04.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/vihir2.jpg">
+							<img class="img-fluid" src="images/vihir2.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-05.jpg">
-							<img class="img-fluid" src="images/gallery-img-05.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/table.jpg">
+							<img class="img-fluid" src="images/table.jpg" alt="Gallery Images">
 						</a>
 					</div> 
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-06.jpg">
-							<img class="img-fluid" src="images/gallery-img-06.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/tank.jpg">
+							<img class="img-fluid" src="images/tank.jpg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/room2.jpg">
+							<img class="img-fluid" src="images/room2.jpg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/eqipment.jpg">
+							<img class="img-fluid" src="images/eqipment.jpg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/diner2.jpg">
+							<img class="img-fluid" src="images/diner2.jpg" alt="Gallery Images">
 						</a>
 					</div>
 				</div>
@@ -69,7 +84,7 @@
 	<!-- End Gallery -->
 	
 	<!-- Start Customer Reviews -->
-	<?php include'includes/customer.php';?>
+	
 	<!-- End Customer Reviews -->
 	
 	<!-- Start Contact info -->

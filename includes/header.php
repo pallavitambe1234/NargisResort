@@ -12,20 +12,20 @@
 						<li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
 						<li class="nav-item"><a class="nav-link" href="menu.php">Menu</a></li>
 						<li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
-						<li class="nav-item"><a class="nav-link" href="about.php">Packages</a></li>
-						<li class="nav-item"><a class="nav-link" href="about.php">NearByPlaces</a></li>
+						<!-- <li class="nav-item"><a class="nav-link" href="about.php">Packages</a></li> -->
+						<!-- <li class="nav-item"><a class="nav-link" href="about.php">NearByPlaces</a></li> -->
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Pages</a>
 							<div class="dropdown-menu" aria-labelledby="dropdown-a">
-								<a class="dropdown-item" href="reservation.php">Reservation</a>
-								<a class="dropdown-item" href="stuff.php">Staff</a>
+								<a class="dropdown-item" href="event.php">Event</a>
+							<!-- 	<a class="dropdown-item" href="stuff.php">Staff</a> -->
 								<a class="dropdown-item" href="gallery.php">Gallery</a>
 							</div>
 						</li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Blog</a>
 							<div class="dropdown-menu" aria-labelledby="dropdown-a">
-								<a class="dropdown-item" href="blog.php">blog</a>
+								<!-- <a class="dropdown-item" href="blog.php">blog</a> -->
 								<a class="dropdown-item" href="blog-details.php">blog Single</a>
 							</div>
 						</li>

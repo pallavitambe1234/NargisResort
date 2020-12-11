@@ -4,7 +4,7 @@
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
 						<h2>Customer Reviews</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p> -->
 					</div>
 				</div>
 			</div>
@@ -16,7 +16,7 @@
 								<div class="img-box p-1 border rounded-circle m-auto">
 									<img class="d-block w-100 rounded-circle" src="images/profile-1.jpg" alt="">
 								</div>
-								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Denis Richale</strong></h5>
+								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Sagar Kumbhar</strong></h5>
 								<h6 class="text-dark m-0">Sales Manger</h6>
 								<p class="m-0 pt-3">A beautiful resort with very well mannered and helpful staff. Nicely maintained property. Can be a perfect get away from your routine hectic schedule. Play area available to keep your kids engaged. Only problem is only cash accepted at the resort due to network issues and even limited mobile network. They also arrange forest safari which is now open from 15 th of Oct.</p>
 							</div>

@@ -22,16 +22,16 @@
 	<!-- Start blog -->
 	<div class="blog-box">
 		<div class="container">
-			<div class="row">
+			<!-- <div class="row">
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
 						<h2>Blog</h2>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="row">
-				<div class="col-lg-4 col-md-6 col-12">
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-01.jpg" alt="">
@@ -48,8 +48,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-02.jpg" alt="">
@@ -66,8 +66,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-03.jpg" alt="">
@@ -84,8 +84,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-04.jpg" alt="">
@@ -102,8 +102,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-05.jpg" alt="">
@@ -120,8 +120,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-06.jpg" alt="">
@@ -138,8 +138,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-07.jpg" alt="">
@@ -156,8 +156,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-08.jpg" alt="">
@@ -174,8 +174,8 @@
 							<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Read More</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+				</div> -->
+				<!-- <div class="col-lg-4 col-md-6 col-12">
 					<div class="blog-box-inner">
 						<div class="blog-img-box">
 							<img class="img-fluid" src="images/blog-img-09.jpg" alt="">
@@ -193,7 +193,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<!-- End blog -->

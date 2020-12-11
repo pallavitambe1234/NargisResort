@@ -6,7 +6,45 @@
 	<?php include'includes/header.php';?>
 	<div id="slides" class="cover-slides">
 		<ul class="slides-container">
+			<li class="text-center">
+				<img src="images/wood2.jpg" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+					</div>
+				</div>
+			</li>
 			
+			<li class="text-center">
+				<img src="images/diner2.jpg" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li class="text-center">
+				<img src="images/roomview.jpg" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+						</div>
+					</div>
+				</div>
+			</li>
 			<li class="text-center">
 				<img src="images/slider-02.jpg" alt="">
 				<div class="container">
@@ -15,7 +53,7 @@
 							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
 							<p class="m-b-40">The extent to your Happiness!!!!!!
 Find the happiness with Family</p>
-							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="reservation.php">Reservation</a></p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
 						</div>
 					</div>
 				</div>
@@ -28,23 +66,24 @@ Find the happiness with Family</p>
 							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
 							<p class="m-b-40">The extent to your Happiness!!!!!!
 Find the happiness with Family</p>
-							<p><a class="btn btn-lg btn-circle btn-outline-new-white"href="reservation.php">Reservation</a></p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white"href="contact.php">Reservation</a></p>
 						</div>
 					</div>
 				</div>
 			</li>
 			<li class="text-center">
-				<img src="images/slider-01.jpg" alt="">
+				<img src="images/tank.jpg" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
 							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
 							<p class="m-b-40">The extent to your Happiness!!!!!!
 Find the happiness with Family</p>
-							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="reservation.php">Reservation</a></p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
 					</div>
 				</div>
 			</li>
+
 		</ul>
 		<div class="slides-navigation">
 			<a href="#" class="next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
@@ -66,7 +105,7 @@ Find the happiness with Family</p>
 						<h4>Little Story</h4>
 						<p>Available Facilities.Tree-house, Farm-House, Swimming, Rain-Dance, Camp-fire, Farm-Trekking, Natural Peacock Park, Indoor-Games. </p>
 						<p>Wedding, Pre/Post-Wedding, Birthday, Kitty Party and Photoshoot.</p>
-						<a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Reservation</a>
+						<a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a>
 					</div>
 				</div>
 			</div>
@@ -82,7 +121,7 @@ Find the happiness with Family</p>
 					<p class="lead ">
 						" Stand for Somthing Good!!!!!!!!!!. "
 					</p>
-					<span class="lead">Michael Strahan</span>
+					<span class="lead"></span>
 				</div>
 			</div>
 		</div>
@@ -96,7 +135,7 @@ Find the happiness with Family</p>
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
 						<h2>Special Menu</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+						<p>Deliciousness jumping into the mouth.</p>
 					</div>
 				</div>
 			</div>
@@ -105,7 +144,8 @@ Find the happiness with Family</p>
 					<div class="special-menu text-center">
 						<div class="button-group filter-button-group">
 							<button class="active" data-filter="*">All</button>
-							<button data-filter=".drinks">Drinks</button>
+							<button data-filter=".drinks">Breakfast</button>
+							<!-- <button data-filter=".drinks">Drinks</button> -->
 							<button data-filter=".lunch">Lunch</button>
 							<button data-filter=".dinner">Dinner</button>
 						</div>
@@ -116,99 +156,105 @@ Find the happiness with Family</p>
 			<div class="row special-list">
 				<div class="col-lg-4 col-md-6 special-grid drinks">
 					<div class="gallery-single fix">
-						<img src="images/img-01.jpg" class="img-fluid" alt="Image">
+						<img src="images/chaha.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
-							<h4>Special Drinks 1</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $7.79</h5>
+							<h4>Special Breakfast 1</h4>
+							<p>Poha With Tea</p>
+							<p>Feedback is the breakfast of champions.</p>
+							
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid drinks">
 					<div class="gallery-single fix">
-						<img src="images/img-02.jpg" class="img-fluid" alt="Image">
+						<img src="images/vadapav.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
-							<h4>Special Drinks 2</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $9.79</h5>
+							<h4>Special Breakfast 2</h4>
+							<p>VadaPav With Tea</p>
+							<p>The Breakfast of Champions</p>
+							
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid drinks">
 					<div class="gallery-single fix">
-						<img src="images/img-03.jpg" class="img-fluid" alt="Image">
+						<img src="images/idali.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
-							<h4>Special Drinks 3</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $10.79</h5>
+							<h4>Special Breakfast 2</h4>
+							<p>Idali With Chatani(Red & Green)</p>
+							<p>Ain't no party like a breakfast party!</p>
+						
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid lunch">
 					<div class="gallery-single fix">
-						<img src="images/img-04.jpg" class="img-fluid" alt="Image">
+						<img src="images/kaju.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
 							<h4>Special Lunch 1</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $15.79</h5>
+							<p>Kaju Kari With Roti.</p>
+							<p>Practice safe lunch use condiments.</p>
+							
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid lunch">
 					<div class="gallery-single fix">
-						<img src="images/img-05.jpg" class="img-fluid" alt="Image">
+						<img src="images/paneer.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
 							<h4>Special Lunch 2</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $18.79</h5>
+							<p>Paneer Masala with Roti.</p>
+							<p>Real cheese taste for real cheese lovers.</p>
+							
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid lunch">
 					<div class="gallery-single fix">
-						<img src="images/img-06.jpg" class="img-fluid" alt="Image">
+						<img src="images/chikan.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
 							<h4>Special Lunch 3</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $20.79</h5>
+							<p>Chikan Masala With Roti.</p>
+							<p>Practice safe lunch use condiments.</p>
+							
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid dinner">
 					<div class="gallery-single fix">
-						<img src="images/img-07.jpg" class="img-fluid" alt="Image">
+						<img src="images/d1.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
 							<h4>Special Dinner 1</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $25.79</h5>
+							<p>My dinner is still in the woods.</p>
+						
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid dinner">
 					<div class="gallery-single fix">
-						<img src="images/img-08.jpg" class="img-fluid" alt="Image">
+						<img src="images/d2.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
 							<h4>Special Dinner 2</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $22.79</h5>
+							<p>Good food and great vibes.</p>
+							
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-lg-4 col-md-6 special-grid dinner">
 					<div class="gallery-single fix">
-						<img src="images/img-09.jpg" class="img-fluid" alt="Image">
+						<img src="images/d3.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
 							<h4>Special Dinner 3</h4>
-							<p>Sed id magna vitae eros sagittis euismod.</p>
-							<h5> $24.79</h5>
+							<p>Hasty and tasty!</p>
+						
 						</div>
 					</div>
 				</div>
@@ -225,40 +271,40 @@ Find the happiness with Family</p>
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
 						<h2>Gallery</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p> -->
 					</div>
 				</div>
 			</div>
 			<div class="tz-gallery">
 				<div class="row">
 					<div class="col-sm-12 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-01.jpg">
-							<img class="img-fluid" src="images/gallery-img-01.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/room3.jpg">
+							<img class="img-fluid" src="images/room3.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-02.jpg">
-							<img class="img-fluid" src="images/gallery-img-02.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/woodhaous.jpg">
+							<img class="img-fluid" src="images/woodhaous.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-03.jpg">
-							<img class="img-fluid" src="images/gallery-img-03.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/wood2.jpg">
+							<img class="img-fluid" src="images/wood2.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-04.jpg">
-							<img class="img-fluid" src="images/gallery-img-04.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/vihir2.jpg">
+							<img class="img-fluid" src="images/vihir2.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-05.jpg">
-							<img class="img-fluid" src="images/gallery-img-05.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/table.jpg">
+							<img class="img-fluid" src="images/table.jpg" alt="Gallery Images">
 						</a>
 					</div> 
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-06.jpg">
-							<img class="img-fluid" src="images/gallery-img-06.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/tank.jpg">
+							<img class="img-fluid" src="images/tank.jpg" alt="Gallery Images">
 						</a>
 					</div>
 				</div>
