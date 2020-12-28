@@ -24,7 +24,7 @@
 					<div class="overflow-hidden">
 						<h4>Location</h4>
 						<p class="lead">
-						Sangli
+						Miraj
 						</p>
 					</div>
 				</div>

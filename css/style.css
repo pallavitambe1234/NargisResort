@@ -406,6 +406,7 @@ button:focus{
     border-radius: 4px;
 }
 
+
 .filter-button-group button.active {
     background: #cfa671;
     color: #fff;
@@ -762,11 +763,10 @@ button:focus{
 	z-index: 1;
 	opacity: 0.8;	
 }
-.all-page-title h1{
-	font-size: 38px;
-	color: #ffffff;
-	font-family: 'Arbutus Slab', serif;
-	padding: 0px;
+.all-page-title h1 {
+    font-size: 100px;
+    color: #d0a772;
+    font-family: inherit;
 }
 
 .inner-pt{

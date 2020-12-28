@@ -16,10 +16,10 @@
 				</div> -->
 				<div class="col-lg-4 col-md-6">
 					<h3>Contact information</h3>
-					<p class="lead">Sangli</p>
+					<p class="lead">Miraj</p>
 
-					<p class="lead"><a href="#"><img src="images/event/whatsapp.png" alt="" style="width: 6%">+91-8625973366 </a></p>
-					<p class="lead"><a href="#"><img src="images/event/call.png" alt="" style="width: 6%">+91-8530381479 </a></p>
+					<p class="lead"><a href="https://api.whatsapp.com/send?phone=+91-8625973366" target="_blank"><img src="images/event/whatsapp.png" alt="" style="width: 6%">+91-8625973366 </a></p>
+					<p class="lead"><a href="tel:+91-8530381479" target="_blank"><img src="images/event/call.png" alt="" style="width: 6%">+91-8530381479 </a></p>
 				
 					<p><a href="#">whisperingteaksresort@gmail.com</a></p>
 				</div>
