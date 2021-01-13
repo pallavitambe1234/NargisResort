@@ -3,6 +3,7 @@
 <?php include'includes/head.php';?>
 
 <body>
+	 <!--<div id="WAButton"></div>-->
 	<?php include'includes/header.php';?>
 	<div id="slides" class="cover-slides">
 		<ul class="slides-container">
