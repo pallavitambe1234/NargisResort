@@ -97,7 +97,9 @@ Find the happiness with Family</p>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12">
-					<img src="images/slider-04.jpg" alt="" class="img-fluid">
+					<div class="iframe-container">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/sZh8FJ6WI78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
