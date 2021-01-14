@@ -3,7 +3,7 @@
 <?php include'includes/head.php';?>
 
 <body>
-	 <!--<div id="WAButton"></div>-->
+	 
 	<?php include'includes/header.php';?>
 	<div id="slides" class="cover-slides">
 		<ul class="slides-container">
@@ -117,7 +117,7 @@ Find the happiness with Family</p>
 	<!-- End About -->
 	
 	<!-- Start QT -->
-	<div class="qt-box qt-background">
+	<!--<div class="qt-box qt-background">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 ml-auto mr-auto text-left">
@@ -128,11 +128,11 @@ Find the happiness with Family</p>
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 	<!-- End QT -->
 	
 	<!-- Start Menu -->
-	<div class="menu-box">
+<!--	<div class="menu-box">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -147,9 +147,9 @@ Find the happiness with Family</p>
 					<div class="special-menu text-center">
 						<div class="button-group filter-button-group">
 							<button class="active" data-filter="*">All</button>
-							<button data-filter=".drinks">Breakfast</button>
+							<button data-filter=".drinks">Breakfast</button>-->
 							<!-- <button data-filter=".drinks">Drinks</button> -->
-							<button data-filter=".lunch">Lunch</button>
+							<!--<button data-filter=".lunch">Lunch</button>
 							<button data-filter=".dinner">Dinner</button>
 						</div>
 					</div>
@@ -264,7 +264,7 @@ Find the happiness with Family</p>
 				
 			</div>
 		</div>
-	</div>
+	</div>-->
 	<!-- End Menu -->
 	
 	<!-- Start Gallery -->
@@ -328,6 +328,10 @@ Find the happiness with Family</p>
 	<?php include'includes/footer.php';?>
 	
 	<a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
+
+	<a href="https://api.whatsapp.com/send?phone=+91-8625973366" class="whatsapp_float" target="_blank"> 
+		<i class="fa fa-whatsapp whatsapp-icon">  Ask for Booking</i>
+		</a>
 
 	<!-- ALL JS FILES -->
 	<?php include'includes/script.php';?>

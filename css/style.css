@@ -373,7 +373,7 @@ button:focus{
 }
 
 .heading-title{
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 }
 .heading-title h2{
 	color: #010101;
@@ -724,7 +724,7 @@ button:focus{
 	display: block;
 	background-color: #010101;
 	border-top: 1px dashed rgba(207, 166, 113);
-	padding: 30px 0;
+	padding: 10px 0;
 	z-index: 1;
 }
 
@@ -1307,8 +1307,8 @@ blockquote {
 
 #back-to-top {
     position: fixed;
-    bottom: 40px;
-    right: 40px;
+    bottom: 20px;
+    left: 20px;
     z-index: 9999;
     width: 32px;
     height: 32px;
@@ -1340,7 +1340,43 @@ blockquote {
   height: 100%;
 }
 
+/* for desktop */
+.whatsapp_float {
+    position:fixed;
+    width:200px;
+    height:40px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+        font-size:20px;
+    box-shadow: 2px 2px 3px #999;
+        z-index:100;
+}
 
+.whatsapp-icon {
+    margin-top:10px;
+}
+
+/* for mobile */
+@media screen and (max-width: 767px){
+     .whatsapp-icon {
+     margin-top:10px;
+     }
+    .whatsapp_float {
+        width: 200px;
+        height: 40px;
+        bottom: 20px;
+        right: 10px;
+        font-size: 22px;
+    }
+    
+
+
+    
+}
 
 
 
