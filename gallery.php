@@ -98,6 +98,10 @@
 	
 	<a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
 
+	<a href="https://api.whatsapp.com/send?phone=+91-8625973366" class="whatsapp_float" target="_blank"> 
+		<i class="fa fa-whatsapp whatsapp-icon">  Ask for Booking</i>
+		</a>
+
 	<!-- ALL JS FILES -->
 	<?php include'includes/script.php';?>
 </body>

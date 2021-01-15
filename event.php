@@ -12,7 +12,7 @@
 		<div class="container text-center">
 			<div class="row">
 				<div class="col-lg-12">
-					<h1>Event</h1>
+					<h1>Upcoming Attractions</h1>
 				</div>
 			</div>
 		</div>
@@ -25,7 +25,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
-						<h2>Event</h2>
+						<h2>Upcoming Attractions</h2>
 						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p> -->
 					</div>
 				</div>
@@ -34,17 +34,17 @@
 				<div class="row">
 					<div class="col-sm-12 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/event/p.jpg">
-							<img class="img-fluid" src="images/event/p.jpg" alt="Gallery Images">
+							<img class="img-fluid" src="images/event/waterfall.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/event/birth.jpg">
-							<img class="img-fluid" src="images/event/birth.jpg" alt="Gallery Images">
+							<img class="img-fluid" src="images/event/safari jeep.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/event/sakal.jpg">
-							<img class="img-fluid" src="images/event/sakal.jpg" alt="Gallery Images">
+							<img class="img-fluid" src="images/event/night-safaari.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-4">

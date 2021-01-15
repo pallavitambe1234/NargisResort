@@ -108,7 +108,9 @@ Find the happiness with Family</p>
 						<h4>Little Story</h4>
 						<p>Available Facilities.Tree-house, Farm-House, Swimming, Rain-Dance, Camp-fire, Farm-Trekking, Natural Peacock Park, Indoor-Games. </p>
 						<p>Wedding, Pre/Post-Wedding, Birthday, Kitty Party and Photoshoot.</p>
-						<a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a>
+						<li >
+						<a class="btn btn-lg btn-circle btn-outline-new-white" class="text-center" href="contact.php">Reservation</a>
+					</li>
 					</div>
 				</div>
 			</div>
@@ -270,6 +272,7 @@ Find the happiness with Family</p>
 	<!-- Start Gallery -->
 	<div class="gallery-box">
 		<div class="container-fluid">
+			<li class="text-center">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
@@ -311,7 +314,9 @@ Find the happiness with Family</p>
 						</a>
 					</div>
 				</div>
+				<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="gallery.php">See More</a></p>
 			</div>
+		</li>
 		</div>
 	</div>
 	<!-- End Gallery -->
