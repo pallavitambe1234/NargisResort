@@ -15,7 +15,7 @@
 						<li class="nav-item"><a class="nav-link" href="package.php">Packages</a></li>
 						<!-- <li class="nav-item"><a class="nav-link" href="about.php">Packages</a></li> -->
 						<!-- <li class="nav-item"><a class="nav-link" href="about.php">NearByPlaces</a></li> -->
-						<li class="nav-item"><a class="nav-link" href="event.php">Event</a></li>
+						<li class="nav-item"><a class="nav-link" href="event.php">Upcoming Attraction</a></li>
 								
 							<!-- 	<a class="dropdown-item" href="stuff.php">Staff</a> -->
 								

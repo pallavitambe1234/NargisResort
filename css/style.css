@@ -466,7 +466,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .gallery-box{
-	padding: 10px 0px;
+	padding: 60px 0px;
 }
 .tz-gallery{
 	margin-top: 30px;
@@ -764,7 +764,7 @@ button:focus{
 	opacity: 0.8;	
 }
 .all-page-title h1 {
-    font-size: 100px;
+    font-size: 60px;
     color: #d0a772;
     font-family: inherit;
 }

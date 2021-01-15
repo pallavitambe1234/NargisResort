@@ -39,7 +39,7 @@
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/event/birth.jpg">
-							<img class="img-fluid" src="images/event/safari jeep.jpg" alt="Gallery Images">
+							<img class="img-fluid" src="images/event/safarijeep.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
@@ -49,14 +49,50 @@
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/event/trip.jpg">
-							<img class="img-fluid" src="images/event/trip.jpg" alt="Gallery Images">
+							<img class="img-fluid" src="images/event/wolf.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/event/p1.jpg">
-							<img class="img-fluid" src="images/event/p1.jpg" alt="Gallery Images">
+							<img class="img-fluid" src="images/event/deer.jpg" alt="Gallery Images">
 						</a>
 					</div> 
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/p1.jpg">
+							<img class="img-fluid" src="images/event/pecock.jpg" alt="Gallery Images">
+						</a>
+					</div> 
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/p1.jpg">
+							<img class="img-fluid" src="images/event/birds.jpg" alt="Gallery Images">
+						</a>
+					</div> 
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/p1.jpg">
+							<img class="img-fluid" src="images/event/rope.jpg" alt="Gallery Images">
+						</a>
+					</div> 
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/p1.jpg">
+							<img class="img-fluid" src="images/event/rapling.jpg" alt="Gallery Images">
+						</a>
+					</div> 
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/p1.jpg">
+							<img class="img-fluid" src="images/event/bugging.jpg" alt="Gallery Images">
+						</a>
+					</div> 
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/p1.jpg">
+							<img class="img-fluid" src="images/event/zip.jpg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/p1.jpg">
+							<img class="img-fluid" src="images/event/sc.jpg" alt="Gallery Images">
+						</a>
+					</div>
+
 					<!-- <div class="col-sm-6 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/tank.jpg">
 							<img class="img-fluid" src="images/tank.jpg" alt="Gallery Images">
