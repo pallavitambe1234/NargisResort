@@ -40,6 +40,7 @@
 					<div class="col-sm-12 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/room3.jpg">
 							<img class="img-fluid" src="images/room3.jpg" alt="Gallery Images">
+							
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
