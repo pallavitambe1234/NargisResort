@@ -5,9 +5,9 @@
 <body>
 	 
 	<?php include'includes/header.php';?>
-	<li class="text-center">
-				<img src="images/slider-03.jpg" alt="">
-			</li>
+	 <div >
+				<img src="images/slider-03.jpg" alt="" style="width: 100%; height:100%">
+	</div>		
 	<!--<div id="slides" class="cover-slides">
 		<li class="text-center">
 				<img src="images/slider-03.jpg" alt="">
@@ -110,7 +110,7 @@ Find the happiness with Family</p>
 					</div>
 				</div>
 			</div>
-			
+
 	<div id="slides" class="cover-slides" style="width: 100%; height:500px; padding-top: 10px">
 		<!--<li class="text-center">
 				<img src="images/slider-03.jpg" alt="">
@@ -169,7 +169,7 @@ Find the happiness with Family</p>
 					</div>
 				</div>-->
 			</li>
-			<li class="text-center">
+			<!--<li class="text-center">
 				<img src="images/slider-03.jpg" alt="">
 				<!--<div class="container">
 					<div class="row">
@@ -181,7 +181,7 @@ Find the happiness with Family</p>
 						</div>
 					</div>
 				</div>-->
-			</li>
+			</li>-->
 			<li class="text-center">
 				<img src="images/tank.jpg" alt="">
 				<!--<div class="container">
