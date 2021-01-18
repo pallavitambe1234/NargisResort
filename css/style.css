@@ -19,9 +19,9 @@
 -------------------------------------------------------------------*/
 
 body {
-  color: #0e0e0e;;
-    font-size: 15px;
-    font-family: cursive;
+  color: #ffffff;;
+    font-size: 20px;
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;;
     line-height: 1.80857;
 }
 
@@ -49,16 +49,16 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: 120% !important;
-    color: #1f1f1f;
+    color: #ffffff;
     margin: 0
 }
 
 h1 {
-    font-size: 24px
+    font-size: 40px
 }
 
 h2 {
-    font-size: 22px
+    font-size: 18px
 }
 
 h3 {
@@ -184,8 +184,8 @@ button:focus{
 	color: #ffffff;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
-	background: #d0a772;
-	color: #ffffff;
+	background: #ffffff;
+	color: #010101;
 	border-radius: 4px;
 }
 
@@ -264,10 +264,10 @@ button:focus{
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 .btn-outline-new-white {
-    color: #cfa671;
+    color: #ffffff;
     background-color: transparent;
     background-image: none;
-    border-color: #cfa671;
+    border-color: #ffffff;
 }
 .btn-outline-new-white:hover {
     color: #ffffff;
@@ -286,7 +286,7 @@ button:focus{
 }
 
 .cover-slides h1{
-	font-family: 'Arbutus Slab', serif;
+	font-family: '"Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;'
 	font-weight: 500;
 	font-size: 64px;
 	color: #fff;
@@ -308,14 +308,14 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .about-section-box{
-	padding: 70px 0px;
+	padding: 60px 10px;
 }
 .about-section-box .img-fluid{
 	box-shadow: -10px -10px 0px #d0a772;
 }
 .inner-column{}
 .inner-column h1{
-	font-family: 'Arbutus Slab', serif;
+	font-family: '"Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;', serif;
 	font-size: 30px;
 	color: #010101;
 }
@@ -354,7 +354,7 @@ button:focus{
     font-weight: 300;
     line-height: 44px;
     color: #fff;
-	font-family: 'Arbutus Slab', serif;
+	font-family: '"Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;', serif;
 	margin-bottom: 20px;
 }
 
@@ -376,9 +376,9 @@ button:focus{
 	margin-bottom: 10px;
 }
 .heading-title h2{
-	color: #010101;
-	font-size: 28px;
-	font-family: 'Arbutus Slab', serif;
+	color: #ffffff;
+	font-size: 40px;
+	font-family: '"Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;', serif;
 }
 .heading-title p{
 	font-size: 18px;
@@ -439,7 +439,7 @@ button:focus{
 	color: #ffffff;
 	font-size: 24px;
 	font-weight: 500;
-	font-family: 'Arbutus Slab', serif;
+	font-family: '"Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;', serif;
 }
 .why-text p{
 	color: #ffffff;
@@ -466,7 +466,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .gallery-box{
-	padding: 60px 0px;
+	padding: 30px 0px;
 }
 .tz-gallery{
 	margin-top: 30px;
@@ -487,7 +487,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .customer-reviews-box{
-	padding:50px 0px;
+	padding:30px 0px;
 }
 
 .carousel-inner .carousel-item .img-box{
@@ -505,7 +505,7 @@ button:focus{
 }
 
 .text-warning{
-	color: #d0a772 !important;
+	color: #FFC300!important;
 	font-size: 24px;
 }
 
@@ -996,13 +996,13 @@ button:focus{
     top: 0px;
     background: #cfa671;
     font-size: 18px;
-    color: #ffffff;
+    color: #010101;
     padding: 5px 15px 5px 5px;
 }
 .inner-blog-detail {
-    background: #ffffff;
+    background: #A04603;
     position: relative;
-    padding: 30px 20px;
+    padding: 10px 20px;
 }
 
 .inner-blog-detail h3 {

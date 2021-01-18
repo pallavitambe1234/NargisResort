@@ -17,11 +17,45 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="gallery-box">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="heading-title text-center">
+						
+						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p> -->
+					</div>
+				</div>
+			</div>
+			<div class="tz-gallery">
+				<div class="row">
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/11.jpeg">
+							<img class="img-fluid" src="images/event/11.jpeg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/Whispering Teaks Package1.png">
+							<img class="img-fluid" src="images/event/Whispering Teaks Package1.png" alt="Gallery Images">
+							
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/event/Special Attractions.png">
+							<img class="img-fluid" src="images/event/Special Attractions.png" alt="Gallery Images">
+						</a>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
 	<!-- End header -->
 	
 	<!-- Start About -->
 	
-		<div class="about-section-box">
+		<!--<div class="about-section-box">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12">
@@ -29,18 +63,18 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
-						<h1><span>Amenities</span></h1>
+						<h1><span>Amenities</span></h1>-->
 						
 						<!--<p>Super Deluxe Tree House : Per Family(2+2) RS.5999(Per Day)
  </p>
 						<p>Deluxe Tree House       : Per Family(2+2) RS.4999(Per Day)</p>-->
 						
-					</div>
+					<!--</div>
 				</div>
 				
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
-						<h1><span>Family Packages</span></h1>
+						<h1><span>Family Packages</span></h1>-->
 						
 						<!--<p>1.10:00AM to 05:00PM Per Person RS.799
  </p>
@@ -61,7 +95,7 @@
 
 </p>-->
 						
-					</div>
+					<!--</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12">
 					<img src="images/event/Whispering Teaks Package1.png" alt="" class="img-fluid">
@@ -71,7 +105,7 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
-						<h1><span>Special Attractions</span></h1>
+						<h1><span>Special Attractions</span></h1>-->
 						
 						<!--<p>Age 01-05Years Per child 300RS
  </p>
@@ -83,8 +117,8 @@
 </p>-->
 
 						
-					</div>
-				</div>
+					<!--</div>
+				</div>-->
 				
 				<!--<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
@@ -142,7 +176,7 @@
 				</div>-->
 			</div>
 		</div>
-	</div>
+	</div>-->
 	
 	<!-- End About -->
 	

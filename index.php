@@ -5,20 +5,27 @@
 <body>
 	 
 	<?php include'includes/header.php';?>
-	<div id="slides" class="cover-slides">
+	<li class="text-center">
+				<img src="images/slider-03.jpg" alt="">
+			</li>
+	<!--<div id="slides" class="cover-slides">
+		<li class="text-center">
+				<img src="images/slider-03.jpg" alt="">
+			</li>
 		<ul class="slides-container">
 			<li class="text-center">
-				<img src="images/wood2.jpg" alt="">
+				<img src="images/slider-03.jpg" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
 							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
 							<p class="m-b-40">The extent to your Happiness!!!!!!
-Find the happiness with Family</p>
+										Find the happiness with Family</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
 					</div>
 				</div>
-			</li>
+			</div>
+			
 			
 			<li class="text-center">
 				<img src="images/diner2.jpg" alt="">
@@ -79,7 +86,7 @@ Find the happiness with Family</p>
 						<div class="col-md-12">
 							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
 							<p class="m-b-40">The extent to your Happiness!!!!!!
-Find the happiness with Family</p>
+								Find the happiness with Family</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
 					</div>
 				</div>
@@ -90,11 +97,114 @@ Find the happiness with Family</p>
 			<a href="#" class="next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
 			<a href="#" class="prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
 		</div>
-	</div>
+	</div>-->
 	<!-- End slides -->
-	
+
+	<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<br><h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-20">The extent to your Happiness!!!!!!
+										Find the happiness with Family</p>
+							
+					</div>
+				</div>
+			</div>
+			
+	<div id="slides" class="cover-slides" style="width: 100%; height:500px; padding-top: 10px">
+		<!--<li class="text-center">
+				<img src="images/slider-03.jpg" alt="">
+			</li>-->
+		<ul class="slides-container">
+			<li class="text-center">
+				<img src="images/slider-03.jpg" alt="">
+				<!--<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+										Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+					</div>
+				</div>
+			</div>-->
+			</li>
+			
+			<li class="text-center">
+				<img src="images/diner2.jpg" alt="">
+				<!--<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+						</div>
+					</div>
+				</div>-->
+			</li>
+			<li class="text-center">
+				<img src="images/roomview.jpg" alt="">
+				<!--<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+						</div>
+					</div>
+				</div>-->
+			</li>
+			<li class="text-center">
+				<img src="images/slider-02.jpg" alt="">
+				<!--<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+						</div>
+					</div>
+				</div>-->
+			</li>
+			<li class="text-center">
+				<img src="images/slider-03.jpg" alt="">
+				<!--<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white"href="contact.php">Reservation</a></p>
+						</div>
+					</div>
+				</div>-->
+			</li>
+			<li class="text-center">
+				<img src="images/tank.jpg" alt="">
+				<!--<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
+							<p class="m-b-40">The extent to your Happiness!!!!!!
+								Find the happiness with Family</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="contact.php">Reservation</a></p>
+					</div>
+				</div>-->
+			</li>
+
+		</ul>
+		<div class="slides-navigation">
+			<a href="#" class="next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+			<a href="#" class="prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+		</div>
+	</div>
 	<!-- Start About -->
 	<div class="about-section-box">
+		
+
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12">
@@ -104,12 +214,12 @@ Find the happiness with Family</p>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
-						<h1>Welcome To <span>Whispering Teaks</span></h1>
-						<h4>Little Story</h4>
-						<p>Available Facilities.Tree-house, Farm-House, Swimming, Rain-Dance, Camp-fire, Farm-Trekking, Natural Peacock Park, Indoor-Games. </p>
-						<p>Wedding, Pre/Post-Wedding, Birthday, Kitty Party and Photoshoot.</p>
+						<!--<h1>Welcome To <span>Whispering Teaks</span></h1>-->
+						<br><br><h2><b>"Whispering Teaks"</b><br>The Tree House Resort</h2>
+						<p>Available facilities in resort are Tree-houses, Delicious Food and Sugarcane Juice, Boating, Swimming Pool, Rain-Dance, Camp-fire, Indoor-Games.We are coming with new attractions i.e, Night Safari, Bird watching,Waterfall And Adventure Games.  </p>
+						<!--<p>Wedding, Pre/Post-Wedding, Birthday, Kitty Party and Photoshoot.</p>-->
 						<li >
-						<a class="btn btn-lg btn-circle btn-outline-new-white" class="text-center" href="contact.php">Reservation</a>
+						<!--<a class="btn btn-lg btn-circle btn-outline-new-white" class="text-center" href="contact.php">Reservation</a>-->
 					</li>
 					</div>
 				</div>
