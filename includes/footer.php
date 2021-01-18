@@ -19,7 +19,7 @@
 					<p class="lead">Miraj</p>
 
 					<p class="lead"><a href="https://api.whatsapp.com/send?phone=+91-8625973366" target="_blank"><img src="images/event/whatsapp.png" alt="" style="width: 6%">+91-8625973366 </a></p>
-					<p class="lead"><a href="tel:+91-8530381479" target="_blank"><img src="images/event/call.png" alt="" style="width: 6%">+91-9834063809/9503936573 </a></p>
+					<p class="lead"><a href="tel:+91-8530381479" target="_blank"><img src="images/event/call.png" alt="" style="width: 6%">+91-9834063809 / 9503936573 </a></p>
 				
 					<p><a href="#">whisperingteaksresort@gmail.com</a></p>
 				</div>
