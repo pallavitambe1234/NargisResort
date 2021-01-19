@@ -24,7 +24,8 @@
 					<div class="overflow-hidden">
 						<h4>Location</h4>
 						<p class="lead">
-						Miraj
+						Bedag.
+						Tal-Miraj. Dist-Sangli
 						</p>
 					</div>
 				</div>

@@ -4,8 +4,8 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-6">
 					<h3>About Us</h3>
-					<p>Available Facilities.Tree-house, Farm-House, Swimming, Rain-Dance, Camp-fire, Farm-Trekking, Natural Peacock Park, Indoor-Games. </p>
-					<p>Wedding, Pre/Post-Wedding, Birthday, Kitty Party and Photoshoot.</p>
+					<p>Available facilities in resort are Tree-houses, Delicious Food and Sugarcane Juice, Boating, Swimming Pool, Rain-Dance, Camp-fire, Indoor-Games.We are coming with new attractions i.e, Night Safari, Bird watching,Waterfall And Adventure Games. </p>
+					
 				</div>
 				<!-- <div class="col-lg-2 col-md-6">
 					<h3>Opening hours</h3>
@@ -16,7 +16,9 @@
 				</div> -->
 				<div class="col-lg-4 col-md-6">
 					<h3>Contact information</h3>
-					<p class="lead">Miraj</p>
+					<p class="lead">Bedag-Mallewadi Road,
+					 Near Second Water Canal,Bedag.
+					 Tal-Miraj. Dist-Sangli</p>
 
 					<p class="lead"><a href="https://api.whatsapp.com/send?phone=+91-8625973366" target="_blank"><img src="images/event/whatsapp.png" alt="" style="width: 6%">+91-8625973366 </a></p>
 					<p class="lead"><a href="tel:+91-8530381479" target="_blank"><img src="images/event/call.png" alt="" style="width: 6%">+91-9834063809 / 9503936573 </a></p>
@@ -51,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<p class="company-name">All Rights Reserved. &copy; 2020 <a href="#">Whispering Teaks Restaurant</a> Design By : 
+						<p class="company-name">All Rights Reserved. &copy; 2020 <a href="#">Whispering Teaks Resort</a> Design By : 
 					<a href="http://www.journeyworldcreations.com/" target="_blank">JW Creations</a></p>
 					</div>
 				</div>

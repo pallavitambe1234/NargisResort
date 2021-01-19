@@ -8,17 +8,27 @@
 	<!-- End header -->
 	
 	<!-- Start All Pages -->
-	<div class="all-page-title page-breadcrumb">
-		<div class="container text-center">
+	<style>
+		@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .iframe-container {
+    width: 100%;
+    padding-top: 10rem;
+  }
+}
+</style>
+		<div class="iframe-container">
+						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/sZh8FJ6WI78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>			
+	</div>
+	<!-- End All Pages -->
+	<div class="container text-center">
 			<div class="row">
 				<div class="col-lg-12">
-					<h1>Gallery</h1>
+				<br><br><h1>Gallery</h1>
 				</div>
 			</div>
 		</div>
-	</div>
-	<!-- End All Pages -->
-	
 	<!-- Start Gallery -->
 	<div class="gallery-box">
 		<div class="container-fluid">

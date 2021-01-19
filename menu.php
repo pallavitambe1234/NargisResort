@@ -48,7 +48,7 @@
 			<div class="row special-list">
 				<div class="col-lg-4 col-md-6 special-grid drinks">
 					<div class="gallery-single fix">
-						<img src="images/chaha.jpg" class="img-fluid" alt="Image">
+						<img src="images/event/waterfall.jpg" class="img-fluid" alt="Image">
 						<div class="why-text">
 							<h4>Special Breakfast 1</h4>
 							<p>Poha With Tea</p>
