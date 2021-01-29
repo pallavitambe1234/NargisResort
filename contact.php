@@ -24,14 +24,14 @@
 	
 	<div class="contact-box">
 		<div class="container">
-			<div class="row">
+			<!--<div class="row">
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
-						<h2>Contact</h2>
+						<h2>Contact</h2>-->
 						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p> -->
-					</div>
+					<!--</div>
 				</div>
-			</div>
+			</div>-->
 			<div class="row">
 				<div class="col-lg-12">
 					   <div class="form">
@@ -60,11 +60,11 @@
               <div class="sent-message">Your message has been sent. Thank you!</div>
             </div> -->
             <div class="text-center"><button type="submit" style= "background: #ff7f50;
-  border: 0;
-  padding: 10px 30px;
-  color: #fff;
-  transition: 0.4s;
-  cursor: pointer;" name="contact" id="contact">Send Message</button></div>
+  					border: 0;
+  					padding: 10px 30px;
+  					color: #fff;
+  					transition: 0.4s;
+  					cursor: pointer;" name="contact" id="contact">Send Message</button></div>
           </form>
         </div>
 				</div>
@@ -83,7 +83,10 @@
 	<!-- End Footer -->
 	
 	<a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
-
+	<a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
+	<a href="https://api.whatsapp.com/send?phone=+91-8625973366" class="whatsapp_float" target="_blank"> 
+		<i class="fa fa-whatsapp whatsapp-icon">  Ask for Booking</i>
+		</a>
 	<!-- ALL JS FILES -->
 		<?php include'includes/script.php';?>
 	

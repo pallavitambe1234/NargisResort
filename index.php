@@ -104,7 +104,7 @@ Find the happiness with Family</p>
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<br><h1 class="m-b-20"><strong>Welcome To <br> Whispering Teaks</strong></h1>
-							<p class="m-b-20">The extent to your Happiness!!!!!!
+							<p class="m-b-20">The extent to your Happiness.
 										Find the happiness with Family</p>
 							
 					</div>
@@ -209,7 +209,7 @@ Find the happiness with Family</p>
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12">
 					<div class="iframe-container">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/sZh8FJ6WI78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<iframe width="938" height="516" src="https://www.youtube.com/embed/mZyHK21JO50?list=UU_uMtKxj68ANXlQ_2A5jjFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">

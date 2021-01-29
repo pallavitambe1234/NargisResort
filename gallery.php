@@ -18,7 +18,7 @@
 }
 </style>
 		<div class="iframe-container">
-						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/sZh8FJ6WI78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<iframe width="938" height="516" src="https://www.youtube.com/embed/mZyHK21JO50?list=UU_uMtKxj68ANXlQ_2A5jjFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</div>			
 	</div>
 	<!-- End All Pages -->
@@ -147,6 +147,22 @@
 					<div class="col-sm-6 col-md-4 col-lg-4">
 						<a class="lightbox" href="images/rrr.jpeg">
 							<img class="img-fluid" src="images/rrr.jpeg" alt="Gallery Images">
+						</a>
+					</div>
+					
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/1.jpeg">
+							<img class="img-fluid" src="images/3.jpeg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/2.jpeg">
+							<img class="img-fluid" src="images/2.jpeg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/3.jpeg">
+							<img class="img-fluid" src="images/1.jpeg" alt="Gallery Images">
 						</a>
 					</div>
 					

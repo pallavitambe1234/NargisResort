@@ -22,14 +22,14 @@
 	<!-- Start Gallery -->
 	<div class="gallery-box">
 		<div class="container-fluid">
-			<div class="row">
+			<!--<div class="row">
 				<div class="col-lg-12">
 					<div class="heading-title text-center">
-						<h2>Upcoming Attractions</h2>
+						<h2>Upcoming Attractions</h2>-->
 						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting</p> -->
-					</div>
+					<!--</div>
 				</div>
-			</div>
+			</div>-->
 			<div class="tz-gallery">
 				<div class="row">
 					<div class="col-lg-4 col-md-6 special-grid drinks">
@@ -253,7 +253,9 @@
 	<!-- End Footer -->
 	
 	<a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
-
+	<a href="https://api.whatsapp.com/send?phone=+91-8625973366" class="whatsapp_float" target="_blank"> 
+		<i class="fa fa-whatsapp whatsapp-icon">  Ask for Booking</i>
+		</a>
 	<!-- ALL JS FILES -->
 	<?php include'includes/script.php';?>
 </body>
