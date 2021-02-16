@@ -34,13 +34,14 @@
 					<div class="our-team">
 						<img src="images/stuff-img-01.jpg">
 						<div class="team-content">
-							<h3 class="title">Williamson</h3>
-							<span class="post">Cook</span>
+
+							<button class="btn">Day1</button>
+							<!--<span class="post">Cook</span>
 							<ul class="social">
 								<li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-							</ul>
+							</ul>-->
 						</div>
 					</div>
 				</div>
