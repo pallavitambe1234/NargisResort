@@ -151,7 +151,7 @@
 					</div>
 					
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/1.jpeg">
+						<a class="lightbox" href="images/3.jpeg">
 							<img class="img-fluid" src="images/3.jpeg" alt="Gallery Images">
 						</a>
 					</div>
@@ -161,7 +161,7 @@
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/3.jpeg">
+						<a class="lightbox" href="images/1.jpeg">
 							<img class="img-fluid" src="images/1.jpeg" alt="Gallery Images">
 						</a>
 					</div>
