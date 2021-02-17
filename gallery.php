@@ -195,6 +195,21 @@
 							<img class="img-fluid" src="images/w1 (7).jpg" alt="Gallery Images">
 						</a>
 					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/w1 (5).jpg">
+							<img class="img-fluid" src="images/w1 (5).jpg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/w1 (9).jpg">
+							<img class="img-fluid" src="images/w1 (9).jpg" alt="Gallery Images">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-4 col-lg-4">
+						<a class="lightbox" href="images/w1 (10).jpg">
+							<img class="img-fluid" src="images/w1 (10).jpg" alt="Gallery Images">
+						</a>
+					</div>
 					
 				</div>
 			</div>

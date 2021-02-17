@@ -19,7 +19,7 @@
 -------------------------------------------------------------------*/
 
 body {
-  color: #ffffff;;
+  color: #333;;
     font-size: 20px;
     font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;;
     line-height: 1.80857;
@@ -49,7 +49,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: 120% !important;
-    color: #ffffff;
+    color: #333;
     margin: 0
 }
 
@@ -1001,9 +1001,10 @@ button:focus{
     padding: 5px 15px 5px 5px;
 }
 .inner-blog-detail {
-    background: #A04603;
+    background: #fcfbfa;
     position: relative;
-    padding: 10px 20px;
+    padding: 30px 30px;
+    box-shadow: 5px 8px 15px #a04603;
 }
 
 .inner-blog-detail h3 {

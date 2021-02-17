@@ -14,6 +14,7 @@
 						<li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
 						<li class="nav-item"><a class="nav-link" href="package.php">Packages</a></li>
 						<!-- <li class="nav-item"><a class="nav-link" href="about.php">Packages</a></li> -->
+						<li class="nav-item"><a class="nav-link" href="holidays.php">Holiday Packages</a></li>
 						<!-- <li class="nav-item"><a class="nav-link" href="about.php">NearByPlaces</a></li> -->
 						<li class="nav-item"><a class="nav-link" href="event.php">Upcoming Attractions</a></li>
 								

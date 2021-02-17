@@ -19,7 +19,7 @@
 	<!-- End All Pages -->
 	
 	<!-- Start Stuff -->
-	<div class="stuff-box">
+	<div class="tz-gallery">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -33,11 +33,16 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="our-team">
 						<img src="images/stuff-img-01.jpg">
+						<a class="lightbox" href="images/stuff-img-01.jpg">
 						<div class="team-content">
 
-							<button class="btn">Day1</button>
-							<!--<span class="post">Cook</span>
-							<ul class="social">
+							
+							
+							<h3>DAY 1</h3>
+							
+							
+				
+							<!--<ul class="social">
 								<li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
