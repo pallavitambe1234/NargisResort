@@ -23,7 +23,7 @@
 							<li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
 							<!--<li class="nav-item"><a class="nav-link" href="blog-details.php">Blog</a></li>-->
 								
-							<li class="nav-item"><a class="nav-link" href="booking.php">Book Now</a></li>
+							<li class="nav-item"><a class="nav-link" href="contact.php">Book Now</a></li>
 					
 						<!--<li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>-->
 					</ul>
