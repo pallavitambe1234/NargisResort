@@ -166,48 +166,48 @@
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (6).jpg">
-							<img class="img-fluid" src="images/w1 (6).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w6.jpg">
+							<img class="img-fluid" src="images/w6.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (2).jpg">
-							<img class="img-fluid" src="images/w1 (2).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w2.jpg">
+							<img class="img-fluid" src="images/w2.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (1).jpg">
-							<img class="img-fluid" src="images/w1 (1).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w1.jpg">
+							<img class="img-fluid" src="images/w1.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (3).jpg">
-							<img class="img-fluid" src="images/w1 (3).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w3.jpg">
+							<img class="img-fluid" src="images/w3.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (4).jpg">
-							<img class="img-fluid" src="images/w1 (4).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w4.jpg">
+							<img class="img-fluid" src="images/w4.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (7).jpg">
-							<img class="img-fluid" src="images/w1 (7).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w7.jpg">
+							<img class="img-fluid" src="images/w7.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (5).jpg">
-							<img class="img-fluid" src="images/w1 (5).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w5.jpg">
+							<img class="img-fluid" src="images/w5.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (9).jpg">
-							<img class="img-fluid" src="images/w1 (9).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w9.jpg">
+							<img class="img-fluid" src="images/w9.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/w1 (10).jpg">
-							<img class="img-fluid" src="images/w1 (10).jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/w10.jpg">
+							<img class="img-fluid" src="images/w10.jpg" alt="Gallery Images">
 						</a>
 					</div>
 					
