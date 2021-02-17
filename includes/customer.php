@@ -16,7 +16,7 @@
 								
 								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Kunal Joshi</strong></h5>
 								<h6 class="text-dark m-0">Pune</h6>
-								<p class="m-0 pt-3">A beautiful resort with very well-mannered and helpful staff. Budget friendly. Can be a perfect get away from your routine hectic schedule. Large area, lots of activities are there. Fresh sugarcane juice,veg and non-veg food. Garden area is there where kids can play.</p>
+								<p class="m-0 pt-3" >A beautiful resort with very well-mannered and helpful staff. Budget friendly. Can be a perfect get away from your routine hectic schedule. Large area, lots of activities are there. Fresh sugarcane juice,veg and non-veg food. Garden area is there where kids can play.</p>
 							</div>
 							<div class="carousel-item text-center">
 								

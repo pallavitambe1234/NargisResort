@@ -19,7 +19,7 @@
 -------------------------------------------------------------------*/
 
 body {
-  color: #333;;
+  color: #ffffff;;
     font-size: 20px;
     font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;;
     line-height: 1.80857;
@@ -37,7 +37,17 @@ a {
     transition: all .3s ease-in-out;
 }
 
-h1,
+h1{
+
+	letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    padding: 0 0 10px 0;
+    font-weight: normal;
+    line-height: 120% !important;
+    color: #ffffff;
+    margin: 0
+}
 h2,
 h3,
 h4,
@@ -58,7 +68,8 @@ h1 {
 }
 
 h2 {
-    font-size: 18px
+    font-size: 19px
+    
 }
 
 h3 {

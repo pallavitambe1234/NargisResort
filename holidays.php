@@ -50,12 +50,12 @@
 								<!--</ul>-->
 								
 								<h2><b>DAY 1</b></h2>
-								 <p>Arrive at Whispering Teaks Resort & check in to your dream Tree House.
+								 <p style="color:#333">Arrive at Whispering Teaks Resort & check in to your dream Tree House.
 									Rest of the day at leisure for some in-house activities like –Boating, Nature Walk, Table Tennis, Archery & Rifle Shooting etc. After the evening snacks high tea & coffee enjoy some live barbeque on your own. Enjoy dinner at the restaurant as it serves some delicious food of your choice.
 									Overnight stay at the resort. (Lunch, Dinner)
 							      </p>
-									<h3><u><b>Recreational Activities :- </b></u></h3>Dart Board,  Carrom,  Archery,  Rifle Shooting, Swimming.
-								
+									<h3><u><b>Recreational Activities :- </b></u></h3><p style="color:#333">Dart Board,  Carrom,  Archery,  Rifle Shooting, Swimming.
+								</p>
 							</div>
 							
 						</div>
@@ -186,9 +186,9 @@
 								<!--</ul>-->
 								
 								<h2><b>DAY 2</b></h2>
-								 <p>Today morning before breakfast take a nature walk & enjoy some scenic view of Farm. Later after breakfast proceed for a one day visit to <b>Khidrapur or Dandoba</b> where in you can enjoy some amazing picture points & excursion for the day. Also drive down to <b>Bhavani Dongar</b> which will revive a historical moment in you. Come back to resort & enjoy camp fire after dinner with guitarist and overnight stay at resort. (Breakfast, Lunch, Dinner)</p>
-								 <h3><u><b>Recreational Activities :- </b></u></h3>Selfie Point, Nature Walk, Bird Watching, LIVE Barbeque, Camp Fire.
-                                      
+								 <p style="color:#333">Today morning before breakfast take a nature walk & enjoy some scenic view of Farm. Later after breakfast proceed for a one day visit to <b>Khidrapur or Dandoba</b> where in you can enjoy some amazing picture points & excursion for the day. Also drive down to <b>Bhavani Dongar</b> which will revive a historical moment in you. Come back to resort & enjoy camp fire after dinner with guitarist and overnight stay at resort. (Breakfast, Lunch, Dinner)</p>
+								 <h3><u><b>Recreational Activities :- </b></u></h3><p style="color:#333">Selfie Point, Nature Walk, Bird Watching, LIVE Barbeque, Camp Fire.
+                                  </p>    
 								 
 							</div>
 							
@@ -320,7 +320,7 @@
 								<!--</ul>-->
 								
 								<h2><b>DAY 3</b></h2>
-								 <p>Today morning after breakfast check out from the hotel & come back with happy memories.(Breakfast)<br>
+								 <p style="color:#333">Today morning after breakfast check out from the hotel & come back with happy memories.(Breakfast)<br>
 								Tour Ends.</p>
 							
 							</div>

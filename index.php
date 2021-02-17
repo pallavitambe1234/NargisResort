@@ -215,7 +215,7 @@ Find the happiness with Family</p>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
 						<!--<h1>Welcome To <span>Whispering Teaks</span></h1>-->
-						<br><br><h2><b>"Whispering Teaks"</b><br>The Tree House Resort</h2>
+						<br><br><h2 style="color:#ffffff"><b>"Whispering Teaks"</b><br>The Tree House Resort</h2>
 						<p>Available facilities in resort are Tree-houses, Delicious Food and Sugarcane Juice, Boating, Swimming Pool, Rain-Dance, Camp-fire, Indoor-Games.We are coming with new attractions i.e, Night Safari, Bird watching,Waterfall And Adventure Games.  </p>
 						<!--<p>Wedding, Pre/Post-Wedding, Birthday, Kitty Party and Photoshoot.</p>-->
 						<li >
